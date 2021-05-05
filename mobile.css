@@ -1,0 +1,17 @@
+#what .items {
+    display: block;
+    padding: 1rem;
+}
+
+#what .items .item {
+    display: flex;
+    text-align: right;
+}
+
+#what .items .item i {
+    margin-left: 1.3rem;
+    align-self: center;
+    margin-bottom: 0;
+}
+
+
